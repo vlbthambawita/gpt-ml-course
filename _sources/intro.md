@@ -2,6 +2,8 @@
 
 # Introduction
 
+## NOTE: THIS IS AN EXPERIMENTAL STUDY 
+
 Welcome to our Machine Learning book, a collaborative effort between an AI language model, GPT, and Vajira Thambawita, a machine learning researcher. The primary goal of this book is to provide a comprehensive understanding of machine learning concepts, from beginner to expert levels, using GPT-generated content and practical code examples.
 
 In this book, we aim to make machine learning accessible to a wide range of readers, regardless of their prior experience or background. We will cover fundamental concepts, popular algorithms, hands-on coding exercises, and advanced topics, providing the necessary foundation for anyone interested in diving into the world of machine learning.
